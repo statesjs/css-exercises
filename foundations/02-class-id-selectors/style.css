@@ -1,0 +1,18 @@
+p {
+    background-color: peachpuff;
+    font-size: 12px;
+}
+
+#two {
+    font-size: 24px;
+    color: blue;
+}
+
+.three {
+    font-size: 18px;
+}
+
+#four {
+    background-color: green;
+    font-weight: bold;
+}
